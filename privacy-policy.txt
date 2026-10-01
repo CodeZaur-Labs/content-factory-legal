@@ -1,0 +1,18 @@
+Privacy Policy
+
+Last updated: October 1, 2026
+
+This application ("AIContentFactory") is a private automation tool operated
+by a single owner. It exists solely to publish content to the owner's own
+Facebook Page.
+
+Data collection: This app does not collect, store, share, sell, or process
+any personal data of Facebook users. It does not access user profiles,
+friend lists, or any data of third parties. The only platform interaction
+is publishing posts to the owner's own Page via the Facebook Graph API.
+
+No analytics, no tracking, no cookies, no third-party processors.
+
+Data retention: none — no user data is stored.
+
+By using this app, you accept this policy.
